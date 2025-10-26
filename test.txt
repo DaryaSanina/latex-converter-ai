@@ -1,0 +1,5 @@
+Title: Test
+Author: anonymous
+
+Definition of dot product
+a.b = |a| |b| cos theta
