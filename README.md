@@ -1,6 +1,6 @@
 # LaTeX Converter AI
 
-A full-stack application that converts plain text to LaTeX using OpenAI's GPT-4 and compiles it using a Python backend with TeX Live.
+A full-stack application that converts plain text to LaTeX using OpenAI's GPT-5 and compiles it using a Python backend with TeX Live.
 
 ## Features
 
