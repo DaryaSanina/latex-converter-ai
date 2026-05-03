@@ -4,7 +4,7 @@ A full-stack application that converts plain text to LaTeX using OpenAI's GPT-5 
 
 ## Features
 
-- **Text to LaTeX Conversion**: Uses OpenAI GPT-4 to intelligently convert plain text to LaTeX
+- **Text to LaTeX Conversion**: Uses OpenAI GPT-5 to intelligently convert plain text to LaTeX
 - **Real LaTeX Compilation**: Compiles LaTeX documents using TeX Live (pdflatex)
 - **PDF to HTML Conversion**: Converts compiled PDFs to HTML for web display
 - **Error Handling**: Comprehensive error handling with user-friendly warnings
